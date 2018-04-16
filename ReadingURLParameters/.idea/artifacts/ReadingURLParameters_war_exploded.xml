@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ReadingURLParameters:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReadingURLParameters_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ReadingURLParameters/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ReadingURLParameters" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
