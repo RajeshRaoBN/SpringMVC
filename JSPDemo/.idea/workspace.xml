@@ -20,8 +20,8 @@
       <file leaf-file-name="scriplet-test.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/scriplet-test.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="195">
+              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -214,12 +214,12 @@
       <updated>1523871857852</updated>
       <workItem from="1523871859256" duration="465000" />
       <workItem from="1523925569454" duration="4845000" />
-      <workItem from="1524024713686" duration="149000" />
+      <workItem from="1524024713686" duration="714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5459000" />
+    <option name="totallyTimeSpent" value="6024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="461" y="65" width="940" height="772" extended-state="0" />
@@ -295,8 +295,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/scriplet-test.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>
